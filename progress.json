@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-09-19T18:52:23.686Z",
+  "items": {
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-09-11T17:56:36.647Z",
+      "last_pushed_at": "2026-09-11T17:56:36.647Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-09-11T18:35:37.840Z",
+      "last_pushed_at": "2026-09-11T18:35:37.840Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-09-11T18:42:36.148Z",
+      "last_pushed_at": "2026-09-11T18:42:36.148Z",
+      "language": "python",
+      "lines": 20
+    }
+  }
+}
