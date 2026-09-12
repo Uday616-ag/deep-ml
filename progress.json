@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:52:23.686Z",
+  "generated_at": "2026-09-19T18:52:35.882Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -39,6 +39,149 @@
       "last_pushed_at": "2026-09-11T18:42:36.148Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-09-12T08:39:10.886Z",
+      "last_pushed_at": "2026-09-12T08:39:10.886Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-09-12T08:50:38.022Z",
+      "last_pushed_at": "2026-09-12T08:50:38.022Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-09-12T09:33:11.952Z",
+      "last_pushed_at": "2026-09-12T09:33:11.952Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-09-12T13:04:07.387Z",
+      "last_pushed_at": "2026-09-12T13:04:07.387Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-09-12T13:07:25.703Z",
+      "last_pushed_at": "2026-09-12T13:07:25.703Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-09-12T13:18:34.526Z",
+      "last_pushed_at": "2026-09-12T13:18:34.526Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-09-12T14:23:40.203Z",
+      "last_pushed_at": "2026-09-12T14:23:40.203Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-09-12T15:07:32.698Z",
+      "last_pushed_at": "2026-09-12T15:07:32.698Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-09-12T15:08:32.666Z",
+      "last_pushed_at": "2026-09-12T15:08:32.666Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-09-12T15:15:12.513Z",
+      "last_pushed_at": "2026-09-12T15:15:12.513Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-09-12T15:51:20.449Z",
+      "last_pushed_at": "2026-09-12T15:51:20.449Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
