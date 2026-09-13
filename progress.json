@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:52:35.882Z",
+  "generated_at": "2026-09-19T18:52:37.872Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -182,6 +182,123 @@
       "last_pushed_at": "2026-09-12T15:51:20.449Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-09-13T05:07:15.014Z",
+      "last_pushed_at": "2026-09-13T05:07:15.014Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-09-13T07:05:58.855Z",
+      "last_pushed_at": "2026-09-13T07:05:58.855Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-09-13T07:10:23.013Z",
+      "last_pushed_at": "2026-09-13T07:10:23.013Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-09-13T08:26:56.853Z",
+      "last_pushed_at": "2026-09-13T08:26:56.853Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-09-13T08:53:58.307Z",
+      "last_pushed_at": "2026-09-13T08:53:58.307Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-09-13T13:57:37.749Z",
+      "last_pushed_at": "2026-09-13T13:57:37.749Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2026-09-13T14:11:25.497Z",
+      "last_pushed_at": "2026-09-13T14:11:25.497Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:102": {
+      "kind": "problem",
+      "id": "102",
+      "title": "Implement the Swish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/102",
+      "path": "problems/0102-implement-the-swish-activation-function",
+      "first_solved_at": "2026-09-13T14:41:22.452Z",
+      "last_pushed_at": "2026-09-13T14:41:22.452Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:103": {
+      "kind": "problem",
+      "id": "103",
+      "title": "Implement the SELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/103",
+      "path": "problems/0103-implement-the-selu-activation-function",
+      "first_solved_at": "2026-09-13T15:03:46.612Z",
+      "last_pushed_at": "2026-09-13T15:03:46.612Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
