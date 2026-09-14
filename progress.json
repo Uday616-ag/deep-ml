@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:52:37.872Z",
+  "generated_at": "2026-09-19T18:52:39.898Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -299,6 +299,97 @@
       "last_pushed_at": "2026-09-13T15:03:46.612Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:96": {
+      "kind": "problem",
+      "id": "96",
+      "title": "Implement the Hard Sigmoid Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/96",
+      "path": "problems/0096-implement-the-hard-sigmoid-activation-function",
+      "first_solved_at": "2026-09-14T13:34:50.727Z",
+      "last_pushed_at": "2026-09-14T13:34:50.727Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:97": {
+      "kind": "problem",
+      "id": "97",
+      "title": "Implement the ELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/97",
+      "path": "problems/0097-implement-the-elu-activation-function",
+      "first_solved_at": "2026-09-14T13:38:49.224Z",
+      "last_pushed_at": "2026-09-14T13:38:49.224Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-09-14T14:06:01.103Z",
+      "last_pushed_at": "2026-09-14T14:06:01.103Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-09-14T17:44:27.212Z",
+      "last_pushed_at": "2026-09-14T17:44:27.212Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-09-14T18:01:30.608Z",
+      "last_pushed_at": "2026-09-14T18:01:30.608Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-09-14T18:04:53.580Z",
+      "last_pushed_at": "2026-09-14T18:04:53.580Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:147": {
+      "kind": "problem",
+      "id": "147",
+      "title": "GeLU Activation Function ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/147",
+      "path": "problems/0147-gelu-activation-function",
+      "first_solved_at": "2026-09-14T18:14:29.848Z",
+      "last_pushed_at": "2026-09-14T18:14:29.848Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
