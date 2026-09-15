@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:52:39.898Z",
+  "generated_at": "2026-09-19T18:52:41.821Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -390,6 +390,58 @@
       "last_pushed_at": "2026-09-14T18:14:29.848Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2026-09-15T04:51:48.742Z",
+      "last_pushed_at": "2026-09-15T04:51:48.742Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:150": {
+      "kind": "problem",
+      "id": "150",
+      "title": "Nesterov Accelerated Gradient Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/150",
+      "path": "problems/0150-nesterov-accelerated-gradient-optimizer",
+      "first_solved_at": "2026-09-15T06:19:04.342Z",
+      "last_pushed_at": "2026-09-15T06:19:04.342Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:145": {
+      "kind": "problem",
+      "id": "145",
+      "title": "Adagrad Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/145",
+      "path": "problems/0145-adagrad-optimizer",
+      "first_solved_at": "2026-09-15T06:52:07.556Z",
+      "last_pushed_at": "2026-09-15T06:52:07.556Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-09-15T16:34:02.196Z",
+      "last_pushed_at": "2026-09-15T16:34:02.196Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
