@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:52:41.821Z",
+  "generated_at": "2026-09-19T18:52:43.668Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -442,6 +442,97 @@
       "last_pushed_at": "2026-09-15T16:34:02.196Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2026-09-16T05:44:27.418Z",
+      "last_pushed_at": "2026-09-16T05:44:27.418Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-09-16T06:27:04.712Z",
+      "last_pushed_at": "2026-09-16T06:27:04.712Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-09-16T06:54:02.870Z",
+      "last_pushed_at": "2026-09-16T06:54:02.870Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-09-16T09:08:49.080Z",
+      "last_pushed_at": "2026-09-16T09:08:49.080Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-09-16T09:12:11.821Z",
+      "last_pushed_at": "2026-09-16T09:12:11.821Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-09-16T18:15:27.654Z",
+      "last_pushed_at": "2026-09-16T18:15:27.654Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-09-16T19:21:46.536Z",
+      "last_pushed_at": "2026-09-16T19:21:46.536Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
