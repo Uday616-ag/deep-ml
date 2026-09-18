@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:52:45.501Z",
+  "generated_at": "2026-09-19T18:52:47.413Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -546,6 +546,45 @@
       "last_pushed_at": "2026-09-17T16:54:41.334Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:49": {
+      "kind": "problem",
+      "id": "49",
+      "title": "Implement Adam Optimization Algorithm",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/49",
+      "path": "problems/0049-implement-adam-optimization-algorithm",
+      "first_solved_at": "2026-09-18T18:19:13.595Z",
+      "last_pushed_at": "2026-09-18T18:19:13.595Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:73": {
+      "kind": "problem",
+      "id": "73",
+      "title": "Calculate Dice Score for Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/73",
+      "path": "problems/0073-calculate-dice-score-for-classification",
+      "first_solved_at": "2026-09-18T18:45:46.215Z",
+      "last_pushed_at": "2026-09-18T18:45:46.215Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-09-18T19:02:43.940Z",
+      "last_pushed_at": "2026-09-18T19:02:43.940Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
