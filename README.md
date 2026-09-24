@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 52 problems · 0 labs · 0 math
+**53** solved · 53 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -49,6 +49,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-09-14 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-09-15 | [solution](problems/0146-momentum-optimizer) |
 | [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2026-09-15 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
+| [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-09-24 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-09-12 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-09-12 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-12 | [solution](problems/0022-sigmoid-activation-function-understanding) |
