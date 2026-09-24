@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T18:04:56.530Z",
+  "generated_at": "2026-09-24T18:09:26.344Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -702,6 +702,19 @@
       "last_pushed_at": "2026-09-24T18:04:54.494Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-09-24T18:09:24.118Z",
+      "last_pushed_at": "2026-09-24T18:09:24.118Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
