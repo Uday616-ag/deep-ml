@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:30:36.383Z",
+  "generated_at": "2026-09-25T17:36:10.586Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -843,6 +843,19 @@
       "path": "problems/0156-implement-swiglu-activation-function",
       "first_solved_at": "2026-09-25T17:30:34.632Z",
       "last_pushed_at": "2026-09-25T17:30:34.632Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-09-25T17:36:09.093Z",
+      "last_pushed_at": "2026-09-25T17:36:09.093Z",
       "language": "python",
       "lines": 16
     }
