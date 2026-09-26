@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**66** solved · 66 problems · 0 labs · 0 math
+**67** solved · 67 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -72,6 +72,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-16 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-20 | [solution](problems/0219-derivative-of-softmax) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-18 | [solution](problems/0049-implement-adam-optimization-algorithm) |
+| [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-09-26 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-20 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-16 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-09-16 | [solution](problems/0007-matrix-transformation) |
