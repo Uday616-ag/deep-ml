@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T17:24:40.833Z",
+  "generated_at": "2026-09-29T17:32:47.237Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -923,6 +923,19 @@
       "last_pushed_at": "2026-09-29T17:24:39.915Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:262": {
+      "kind": "problem",
+      "id": "262",
+      "title": "Implement the Mish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/262",
+      "path": "problems/0262-implement-the-mish-activation-function",
+      "first_solved_at": "2026-09-29T17:32:45.097Z",
+      "last_pushed_at": "2026-09-29T17:32:45.097Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
