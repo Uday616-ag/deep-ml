@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**72** solved · 72 problems · 0 labs · 0 math
+**73** solved · 73 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-09-25 | [solution](problems/0156-implement-swiglu-activation-function) |
 | [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-09-14 | [solution](problems/0097-implement-the-elu-activation-function) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-09-14 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
+| [Implement the Hardtanh Activation Function](https://www.deep-ml.com/problems/266) | easy | 2026-09-29 | [solution](problems/0266-implement-the-hardtanh-activation-function) |
 | [Implement the Mish Activation Function](https://www.deep-ml.com/problems/262) | easy | 2026-09-29 | [solution](problems/0262-implement-the-mish-activation-function) |
 | [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2026-09-13 | [solution](problems/0103-implement-the-selu-activation-function) |
 | [Implement the Softplus Activation Function](https://www.deep-ml.com/problems/99) | easy | 2026-09-25 | [solution](problems/0099-implement-the-softplus-activation-function) |
