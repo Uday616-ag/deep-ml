@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**73** solved · 73 problems · 0 labs · 0 math
+**74** solved · 74 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-13 | [solution](problems/0016-feature-scaling-implementation) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-09-14 | [solution](problems/0147-gelu-activation-function) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-09-13 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
+| [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-09-29 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-09-13 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-09-24 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-09-13 | [solution](problems/0046-implement-precision-metric) |
