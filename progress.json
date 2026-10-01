@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:08:32.116Z",
+  "generated_at": "2026-10-01T17:58:35.399Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1012,6 +1012,19 @@
       "path": "problems/0149-adadelta-optimizer",
       "first_solved_at": "2026-10-01T17:08:31.270Z",
       "last_pushed_at": "2026-10-01T17:08:31.270Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-10-01T17:58:33.513Z",
+      "last_pushed_at": "2026-10-01T17:58:33.513Z",
       "language": "python",
       "lines": 23
     }
