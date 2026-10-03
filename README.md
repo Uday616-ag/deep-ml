@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**84** solved · 84 problems · 0 labs · 0 math
+**85** solved · 85 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement 2D Average Pooling](https://www.deep-ml.com/problems/265) | easy | 2026-09-30 | [solution](problems/0265-implement-2d-average-pooling) |
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-09-29 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-09-13 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
+| [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-10-03 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Hinge Loss for SVM](https://www.deep-ml.com/problems/283) | easy | 2026-10-02 | [solution](problems/0283-implement-hinge-loss-for-svm) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-09-24 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-09-13 | [solution](problems/0046-implement-precision-metric) |
