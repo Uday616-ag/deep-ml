@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:25:36.078Z",
+  "generated_at": "2026-10-05T16:28:24.631Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1144,6 +1144,19 @@
       "last_pushed_at": "2026-10-03T16:25:24.272Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:95": {
+      "kind": "problem",
+      "id": "95",
+      "title": "Calculate the Phi Coefficient",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/95",
+      "path": "problems/0095-calculate-the-phi-coefficient",
+      "first_solved_at": "2026-10-05T16:28:20.372Z",
+      "last_pushed_at": "2026-10-05T16:28:20.372Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
