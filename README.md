@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**96** solved · 96 problems · 0 labs · 0 math
+**97** solved · 97 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-09-25 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-09-13 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-12 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-10-09 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-10-07 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-09-24 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-09-13 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
