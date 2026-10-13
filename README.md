@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**97** solved · 97 problems · 0 labs · 0 math
+**98** solved · 98 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -96,6 +96,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-20 | [solution](problems/0219-derivative-of-softmax) |
 | [Elo Rating System for Model Comparison](https://www.deep-ml.com/problems/315) | medium | 2026-10-09 | [solution](problems/0315-elo-rating-system-for-model-comparison) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-18 | [solution](problems/0049-implement-adam-optimization-algorithm) |
+| [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-10-13 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-10-05 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-09-26 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-03 | [solution](problems/0192-implement-the-huber-loss-function) |
