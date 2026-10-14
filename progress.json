@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:06:05.255Z",
+  "generated_at": "2026-10-14T17:45:11.061Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1352,6 +1352,19 @@
       "last_pushed_at": "2026-10-14T17:06:04.037Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:813": {
+      "kind": "problem",
+      "id": "813",
+      "title": "Epsilon-Insensitive Loss for SVM Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/813",
+      "path": "problems/0813-epsilon-insensitive-loss-for-svm-regression",
+      "first_solved_at": "2026-10-14T17:45:09.739Z",
+      "last_pushed_at": "2026-10-14T17:45:09.739Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }

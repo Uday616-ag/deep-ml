@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**104** solved · 104 problems · 0 labs · 0 math
+**105** solved · 105 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -97,6 +97,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-09-29 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-20 | [solution](problems/0219-derivative-of-softmax) |
 | [Elo Rating System for Model Comparison](https://www.deep-ml.com/problems/315) | medium | 2026-10-09 | [solution](problems/0315-elo-rating-system-for-model-comparison) |
+| [Epsilon-Insensitive Loss for SVM Regression](https://www.deep-ml.com/problems/813) | medium | 2026-10-14 | [solution](problems/0813-epsilon-insensitive-loss-for-svm-regression) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-18 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-10-13 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement p-Spectrum String Kernel](https://www.deep-ml.com/problems/816) | medium | 2026-10-14 | [solution](problems/0816-implement-p-spectrum-string-kernel) |
