@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:22:54.536Z",
+  "generated_at": "2026-10-14T17:06:05.255Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1337,6 +1337,19 @@
       "path": "problems/0815-implement-sigmoid-kernel-function",
       "first_solved_at": "2026-10-14T16:22:53.204Z",
       "last_pushed_at": "2026-10-14T16:22:53.204Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:816": {
+      "kind": "problem",
+      "id": "816",
+      "title": "Implement p-Spectrum String Kernel",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/816",
+      "path": "problems/0816-implement-p-spectrum-string-kernel",
+      "first_solved_at": "2026-10-14T17:06:04.037Z",
+      "last_pushed_at": "2026-10-14T17:06:04.037Z",
       "language": "python",
       "lines": 23
     }

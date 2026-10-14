@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**103** solved · 103 problems · 0 labs · 0 math
+**104** solved · 104 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -99,6 +99,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Elo Rating System for Model Comparison](https://www.deep-ml.com/problems/315) | medium | 2026-10-09 | [solution](problems/0315-elo-rating-system-for-model-comparison) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-18 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-10-13 | [solution](problems/0173-implement-k-nearest-neighbors) |
+| [Implement p-Spectrum String Kernel](https://www.deep-ml.com/problems/816) | medium | 2026-10-14 | [solution](problems/0816-implement-p-spectrum-string-kernel) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-10-05 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-09-26 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement Sigmoid Kernel Function](https://www.deep-ml.com/problems/815) | medium | 2026-10-14 | [solution](problems/0815-implement-sigmoid-kernel-function) |
