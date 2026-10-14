@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:18:03.693Z",
+  "generated_at": "2026-10-14T16:22:54.536Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1326,6 +1326,19 @@
       "last_pushed_at": "2026-10-14T16:18:01.512Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:815": {
+      "kind": "problem",
+      "id": "815",
+      "title": "Implement Sigmoid Kernel Function",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/815",
+      "path": "problems/0815-implement-sigmoid-kernel-function",
+      "first_solved_at": "2026-10-14T16:22:53.204Z",
+      "last_pushed_at": "2026-10-14T16:22:53.204Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }

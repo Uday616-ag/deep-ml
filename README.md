@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**102** solved · 102 problems · 0 labs · 0 math
+**103** solved · 103 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -101,6 +101,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-10-13 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-10-05 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-09-26 | [solution](problems/0053-implement-self-attention-mechanism) |
+| [Implement Sigmoid Kernel Function](https://www.deep-ml.com/problems/815) | medium | 2026-10-14 | [solution](problems/0815-implement-sigmoid-kernel-function) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-03 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-20 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2026-10-07 | [solution](problems/0152-implementing-rouge-score) |
