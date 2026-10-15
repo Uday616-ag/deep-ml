@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T05:47:25.604Z",
+  "generated_at": "2026-10-15T05:50:27.906Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1480,6 +1480,19 @@
       "path": "problems/1108-average-per-group",
       "first_solved_at": "2026-10-15T05:47:24.775Z",
       "last_pushed_at": "2026-10-15T05:47:24.775Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1109": {
+      "kind": "problem",
+      "id": "1109",
+      "title": "Your first JOIN",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1109",
+      "path": "problems/1109-your-first-join",
+      "first_solved_at": "2026-10-15T05:50:27.201Z",
+      "last_pushed_at": "2026-10-15T05:50:27.201Z",
       "language": "sql",
       "lines": 4
     }

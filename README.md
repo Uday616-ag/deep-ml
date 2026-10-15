@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**114** solved · 114 problems · 0 labs · 0 math
+**115** solved · 115 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -100,6 +100,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-09-16 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-11 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-02 | [solution](problems/0121-vector-element-wise-sum) |
+| [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-15 | [solution](problems/1109-your-first-join) |
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2026-10-01 | [solution](problems/0149-adadelta-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-25 | [solution](problems/0087-adam-optimizer) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-16 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
