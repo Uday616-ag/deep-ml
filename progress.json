@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:12:54.284Z",
+  "generated_at": "2026-10-19T19:07:32.956Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1547,6 +1547,19 @@
       "last_pushed_at": "2026-10-19T18:12:52.551Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:403": {
+      "kind": "problem",
+      "id": "403",
+      "title": "Diffusion Cosine Noise Schedule",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/403",
+      "path": "problems/0403-diffusion-cosine-noise-schedule",
+      "first_solved_at": "2026-10-19T19:07:21.644Z",
+      "last_pushed_at": "2026-10-19T19:07:21.644Z",
+      "language": "python",
+      "lines": 51
     }
   }
 }
