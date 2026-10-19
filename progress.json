@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:39:45.370Z",
+  "generated_at": "2026-10-19T18:12:54.284Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1534,6 +1534,19 @@
       "last_pushed_at": "2026-10-19T17:39:33.658Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:393": {
+      "kind": "problem",
+      "id": "393",
+      "title": "Implement Variational Autoencoder (VAE) Loss (ELBO)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/393",
+      "path": "problems/0393-implement-variational-autoencoder-vae-loss-elbo",
+      "first_solved_at": "2026-10-19T18:12:52.551Z",
+      "last_pushed_at": "2026-10-19T18:12:52.551Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }

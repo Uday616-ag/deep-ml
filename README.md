@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**118** solved · 118 problems · 0 labs · 0 math
+**119** solved · 119 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -118,6 +118,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-09-26 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement Sigmoid Kernel Function](https://www.deep-ml.com/problems/815) | medium | 2026-10-14 | [solution](problems/0815-implement-sigmoid-kernel-function) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-03 | [solution](problems/0192-implement-the-huber-loss-function) |
+| [Implement Variational Autoencoder (VAE) Loss (ELBO)](https://www.deep-ml.com/problems/393) | medium | 2026-10-19 | [solution](problems/0393-implement-variational-autoencoder-vae-loss-elbo) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-20 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2026-10-07 | [solution](problems/0152-implementing-rouge-score) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-10-13 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
